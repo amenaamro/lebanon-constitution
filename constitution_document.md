@@ -1,4 +1,4 @@
-&rlm;
+<p dir="rtl" align="right">
  
 <[[نصوص قانونية]]
 
@@ -523,4 +523,4 @@
 
 [[en:Constitution of Lebanon]]
 [[fr:Constitution du Liban]]
-&lrm;
+</p>
