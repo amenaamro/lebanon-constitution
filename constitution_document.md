@@ -1,3 +1,5 @@
+&rlm;
+ 
 <[[نصوص قانونية]]
 
 دستورالجمهورية اللبنانية
@@ -521,3 +523,4 @@
 
 [[en:Constitution of Lebanon]]
 [[fr:Constitution du Liban]]
+&lrm;
